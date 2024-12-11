@@ -1,4 +1,6 @@
-https://www.kaggle.com/datasets/palashfendarkar/wa-fnusec-telcocustomerchurn
+https://www.kaggle.com/datasets/palashfendarkar/wa-fnusec-telcocustomerchurn´
+
+unicode : https://tutorialzine.com/2014/12/you-dont-need-icons-here-are-100-unicode-symbols-that-you-can-use
 
 
 
